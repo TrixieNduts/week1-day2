@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="Am loving this soo far">
-      <change afterPath="$PROJECT_DIR$/Day3_excersice7.py" afterDir="false" />
+    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="We can do this">
+      <change afterPath="$PROJECT_DIR$/Day3_exercise8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.Day2_Exercise5.executor": "Run",
     "Python.Day2_Exercise6.executor": "Run",
     "Python.Day3_excersice7.executor": "Run",
+    "Python.Day3_exercise8.executor": "Run",
     "Python.Week 1_Exercise_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -86,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1774308688189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="We can do this">
+      <option name="closed" value="true" />
+      <created>1774389447614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774389447615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Am loving this soo far" />
-    <option name="LAST_COMMIT_MESSAGE" value="Am loving this soo far" />
+    <MESSAGE value="We can do this" />
+    <option name="LAST_COMMIT_MESSAGE" value="We can do this" />
   </component>
 </project>
