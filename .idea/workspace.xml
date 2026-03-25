@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="We can do this">
+    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="Converting int to float">
+      <change afterPath="$PROJECT_DIR$/Day4_Exercice11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,8 @@
     "Python.Day3_Exercise9.executor": "Run",
     "Python.Day3_excersice7.executor": "Run",
     "Python.Day3_exercise8.executor": "Run",
+    "Python.Day4_Exercice11.executor": "Run",
+    "Python.Day4_Exercise10.executor": "Run",
     "Python.Week 1_Exercise_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -111,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1774390760793</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Converting int to float">
+      <option name="closed" value="true" />
+      <created>1774478904651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774478904651</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Am loving this soo far" />
     <MESSAGE value="We can do this" />
-    <option name="LAST_COMMIT_MESSAGE" value="We can do this" />
+    <MESSAGE value="Converting int to float" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converting int to float" />
   </component>
 </project>
