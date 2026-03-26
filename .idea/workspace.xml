@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="Converting mins to hours">
-      <change afterPath="$PROJECT_DIR$/Day4_Exercise12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5_Exercise13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;TrixieNduts&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/TrixieNduts/week1-day2.git&quot;,
-    &quot;accountId&quot;: &quot;e8297e86-12e9-46b7-81de-ddcc84f760bc&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TrixieNduts/week1-day2.git",
+    "accountId": "219a6ac7-339c-4bb6-8c13-2600c3cd452f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -53,6 +53,7 @@
     "Python.Day4_Exercice11.executor": "Run",
     "Python.Day4_Exercise10.executor": "Run",
     "Python.Day4_Exercise12.executor": "Run",
+    "Python.Day5_Exercise13.executor": "Run",
     "Python.Week 1_Exercise_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
