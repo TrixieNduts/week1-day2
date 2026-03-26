@@ -1,5 +1,3 @@
-from selectors import SelectSelector
-
 import sys
 
 def main():
