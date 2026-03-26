@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="Age &lt; than 18 deny">
-      <change afterPath="$PROJECT_DIR$/Day5_Exercise14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="Boolean">
+      <change afterPath="$PROJECT_DIR$/Day5_Exercise15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     "Python.Day4_Exercise12.executor": "Run",
     "Python.Day5_Exercise13.executor": "Run",
     "Python.Day5_Exercise14.executor": "Run",
+    "Python.Day5_Exercise15.executor": "Run",
     "Python.Week 1_Exercise_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -149,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774550221457</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Boolean">
+      <option name="closed" value="true" />
+      <created>1774553731695</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774553731695</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +166,7 @@
     <MESSAGE value="Converting int to float" />
     <MESSAGE value="Converting mins to hours" />
     <MESSAGE value="Age &lt; than 18 deny" />
-    <option name="LAST_COMMIT_MESSAGE" value="Age &lt; than 18 deny" />
+    <MESSAGE value="Boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="Boolean" />
   </component>
 </project>
