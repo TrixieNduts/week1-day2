@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;TrixieNduts&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TrixieNduts/week1-day2.git",
-    "accountId": "219a6ac7-339c-4bb6-8c13-2600c3cd452f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TrixieNduts/week1-day2.git&quot;,
+    &quot;accountId&quot;: &quot;219a6ac7-339c-4bb6-8c13-2600c3cd452f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -40,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Day2_Exercise5.executor": "Run",
-    "Python.Day2_Exercise6.executor": "Run",
-    "Python.Day3_Exercise9.executor": "Run",
-    "Python.Day3_excersice7.executor": "Run",
-    "Python.Day3_exercise8.executor": "Run",
-    "Python.Day4_Exercice11.executor": "Run",
-    "Python.Day4_Exercise10.executor": "Run",
-    "Python.Day4_Exercise12.executor": "Run",
-    "Python.Day5_Exercise13.executor": "Run",
-    "Python.Day5_Exercise14.executor": "Run",
-    "Python.Day5_Exercise15.executor": "Run",
-    "Python.Day6_Exercise16.executor": "Run",
-    "Python.Week 1_Exercise_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Day2_Exercise5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2_Exercise6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3_Exercise9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3_excersice7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3_exercise8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_Exercice11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_Exercise10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_Exercise12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5_Exercise13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5_Exercise14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5_Exercise15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day6_Exercise16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 1_Exercise_4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774559199727</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="None var">
+      <option name="closed" value="true" />
+      <created>1774634782280</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1774634782280</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
