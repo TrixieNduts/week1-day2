@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="None var" />
+    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="None var">
+      <change afterPath="$PROJECT_DIR$/Day6_Exercise17.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,27 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Day2_Exercise5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day2_Exercise6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day3_Exercise9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day3_excersice7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day3_exercise8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day4_Exercice11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day4_Exercise10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day4_Exercise12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day5_Exercise13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day5_Exercise14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day5_Exercise15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day6_Exercise16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Week 1_Exercise_4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Day2_Exercise5.executor": "Run",
+    "Python.Day2_Exercise6.executor": "Run",
+    "Python.Day3_Exercise9.executor": "Run",
+    "Python.Day3_excersice7.executor": "Run",
+    "Python.Day3_exercise8.executor": "Run",
+    "Python.Day4_Exercice11.executor": "Run",
+    "Python.Day4_Exercise10.executor": "Run",
+    "Python.Day4_Exercise12.executor": "Run",
+    "Python.Day5_Exercise13.executor": "Run",
+    "Python.Day5_Exercise14.executor": "Run",
+    "Python.Day5_Exercise15.executor": "Run",
+    "Python.Day6_Exercise16.executor": "Run",
+    "Python.Day6_Exercise17.executor": "Run",
+    "Python.Week 1_Exercise_4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -180,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774634782280</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="None var">
+      <option name="closed" value="true" />
+      <created>1774635444887</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774635444887</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
