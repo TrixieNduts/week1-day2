@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="None var">
-      <change afterPath="$PROJECT_DIR$/Day6_Exercise17.py" afterDir="false" />
+    <list default="true" id="7604ad6e-577a-4bb5-bd4a-7d376c43fd70" name="Changes" comment="None value">
+      <change afterPath="$PROJECT_DIR$/Day6_Exercise18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.Day5_Exercise15.executor": "Run",
     "Python.Day6_Exercise16.executor": "Run",
     "Python.Day6_Exercise17.executor": "Run",
+    "Python.Day6_Exercise18.executor": "Run",
     "Python.Week 1_Exercise_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -191,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774635444887</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="None value">
+      <option name="closed" value="true" />
+      <created>1774635884063</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774635884063</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +212,7 @@
     <MESSAGE value="Boolean" />
     <MESSAGE value="Starts with" />
     <MESSAGE value="None var" />
-    <option name="LAST_COMMIT_MESSAGE" value="None var" />
+    <MESSAGE value="None value" />
+    <option name="LAST_COMMIT_MESSAGE" value="None value" />
   </component>
 </project>
